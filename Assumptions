@@ -1,0 +1,6 @@
+Following Assumptions has been followed:
+1. Manager view and Waiter view will display the output as string
+2. Security has not been implemented for different views.
+3. Static limitations for max limits (resto's and tables)
+4. Data is not persisted in, but it will be in memory while running the test case.
+5. All interactive should be done through test cases.
